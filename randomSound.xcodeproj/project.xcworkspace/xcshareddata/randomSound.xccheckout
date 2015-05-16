@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A9C9C78-8589-4C06-8CF9-1F881DCAF160</string>
+	<key>IDESourceControlProjectName</key>
+	<string>randomSound</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABF9C27235934F5864076CF0B3054F97A992BB7E</key>
+		<string>https://github.com/scottyoshimura/randomSoundPlayer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>randomSound.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABF9C27235934F5864076CF0B3054F97A992BB7E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scottyoshimura/randomSoundPlayer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABF9C27235934F5864076CF0B3054F97A992BB7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABF9C27235934F5864076CF0B3054F97A992BB7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>randomSoundPlayer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
